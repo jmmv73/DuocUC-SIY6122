@@ -64,10 +64,10 @@ fi
 # Install Mosquitto
 # ------------------------------------------------------------
 
-echo
-echo "[1/7] Updating package list..."
+#echo
+#echo "[1/7] Updating package list..."
 
-apt-get update
+#apt-get update
 
 
 echo
